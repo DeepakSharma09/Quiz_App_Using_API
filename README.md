@@ -35,9 +35,12 @@ A simple and interactive quiz app built with **Flutter**. The app fetches quiz q
 
 ## Screenshots
 
-| Home Screen | Quiz Screen | Review Screen |
+| Quiz Screen | Main Screen | Review Screen |
 |-------------|-------------|---------------|
-| ![Home Screen](screenshots/home.png) | ![Quiz Screen](screenshots/quiz.png) | ![Review Screen](screenshots/review.png) |
+| ![Quiz Screen](![image](https://github.com/user-attachments/assets/6e2f5f63-a7e8-4d2d-91a5-13803680ea54)
+) | ![Main Screen](![image](https://github.com/user-attachments/assets/200a193f-ee9c-4701-bd7c-58027f6bddab)
+) | ![Review Screen](![image](https://github.com/user-attachments/assets/0e08ee29-5662-4f34-8392-16fc3010a0ba)
+) |
 
 ---
 
